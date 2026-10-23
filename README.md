@@ -1,15 +1,49 @@
-# 💫 About Me:
-# 👋 Olá, eu sou Clayton!<br><br>💻 Estudante de Ciência da Computação e Desenvolvedor em formação.<br><br>🎯 Atualmente estou focado em me tornar um Desenvolvedor Full Stack,<br>com foco inicial em Front-end.<br><br>🚀 Tenho estudado e desenvolvido projetos utilizando tecnologias<br>como HTML, CSS, JavaScript, React, TypeScript e SQL.<br><br>---<br><br>## 🧑‍💻 Sobre mim<br><br>Sou estudante de Ciência da Computação e estou construindo minha<br>carreira em desenvolvimento de software.<br><br>Atualmente estou aprofundando meus conhecimentos em desenvolvimento<br>Front-end e expandindo minha base para o desenvolvimento Full Stack.<br><br>Tenho interesse em criar aplicações bem estruturadas, entender como<br>as diferentes partes de um sistema se conectam e evoluir continuamente<br>através de projetos práticos.<br><br>🎓 Ciência da Computação  <br>💻 Foco em Desenvolvimento Web / Full Stack  <br>📚 Aprendendo continuamente através de cursos e projetos  <br>🔎 Buscando uma oportunidade de estágio em desenvolvimento de software<br><br>---<br><br>## 🚀 Tecnologias<br><br>### Front-end<br><br><div><br>  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" /><br></div><br><br>### Banco de Dados<br><br><div><br>  <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br></div><br><br>### Ferramentas<br><br><div><br>  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" /><br></div><br><br>---<br><br>## 🌱 Atualmente aprendendo<br><br>- ⚛️ React<br>- 🔷 TypeScript<br>- 🗄️ SQL e Banco de Dados<br>- 🏗️ Modelagem de Banco de Dados<br>- 🔌 APIs e integração entre Front-end e Back-end<br>- 🧩 Arquitetura e organização de aplicações<br>- 🚀 Desenvolvimento Full Stack<br><br>---<br><br>## 📚 Conhecimentos<br><br>### HTML & CSS<br>- Estruturação semântica<br>- Flexbox<br>- CSS Grid<br>- Responsividade<br>- Media Queries<br>- Componentização de interfaces<br><br>### JavaScript<br>- Variáveis e tipos<br>- Funções<br>- Arrays e objetos<br>- Métodos de array (`map`, `filter`, `reduce`, `find`)<br>- DOM<br>- Eventos<br>- LocalStorage<br>- Manipulação de dados<br>- Consumo de APIs<br><br>### React<br>- Componentes<br>- Props<br>- Children<br>- Hooks<br>- Organização de componentes<br>- React Router<br>- Estilização<br>- Styled Components<br><br>### TypeScript<br>- Tipagem estática<br>- Tipos primitivos<br>- Arrays e objetos<br>- Interfaces<br>- Type<br>- Union Types<br>- Tipagem de funções<br>- Tipagem de componentes React<br><br>### Banco de Dados<br>- SQL<br>- Modelagem de dados<br>- Modelo conceitual<br>- Modelo lógico<br>- Chaves primárias e estrangeiras<br>- Relacionamentos<br>- Normalização<br><br>---<br><br>## 🛠️ Projetos<br><br>### 🍕 Sistema para Pizzaria<br><br>Projeto acadêmico desenvolvido para solucionar problemas de<br>controle de estoque, pedidos, comunicação com clientes e análise<br>de informações.<br><br>**Tecnologias:**<br>HTML • CSS • JavaScript • APIs • Banco de Dados<br><br>---<br><br>### 🚗 Sistema de Estoque de Veículos<br><br>Projeto voltado para gerenciamento de estoque de veículos, com<br>diferentes níveis de acesso entre administrador e funcionário.<br><br>**Objetivo:**<br>Praticar desenvolvimento de sistemas, organização de dados,<br>autenticação e integração com banco de dados.<br><br>---<br><br>### 💰 Expense Tracker<br><br>Aplicação para gerenciamento de despesas desenvolvida para<br>praticar JavaScript e manipulação de dados.<br><br>**Conceitos praticados:**<br>- Arrays<br>- Funções<br>- Manipulação do DOM<br>- `map`<br>- `filter`<br>- `reduce`<br>- `find`<br>- CRUD<br>- LocalStorage<br><br>---<br><br>## 📈 Minha jornada<br><br>```text<br>HTML<br> ↓<br>CSS<br> ↓<br>JavaScript<br> ↓<br>React<br> ↓<br>TypeScript<br> ↓<br>SQL / Banco de Dados<br> ↓<br>APIs<br> ↓<br>Back-end<br> ↓<br>Full Stack 🚀
+# Clayton Timóteo
 
+Estudante de Ciência da Computação | Desenvolvedor Full Stack em formação
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=martiniclayton&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=martiniclayton&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=martiniclayton&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Estudo e desenvolvo aplicações web com foco em JavaScript, TypeScript e React. Atualmente, estou expandindo meus conhecimentos em back-end, APIs e bancos de dados, buscando construir uma base sólida em desenvolvimento de software.
+
+Tenho interesse em entender como as aplicações funcionam de ponta a ponta, desde a interface até a persistência dos dados.
+
+## Tecnologias
+
+**Front-end:** HTML, CSS, JavaScript, TypeScript, React
+
+**Back-end:** Node.js, Express
+
+**Banco de dados:** MySQL, PostgreSQL
+
+**Ferramentas:** Git, GitHub, VS Code, Postman
+
+## Projetos
+
+### Orça Mais
+
+Aplicação web para gerenciamento de orçamentos e ordens de serviço, com integração entre front-end e back-end.
+
+Tecnologias: React, TypeScript, Node.js, Express e banco de dados SQL.
+
+### Sistema de estoque de veículos
+
+Projeto voltado ao gerenciamento de veículos, com foco em organização dos dados, regras de negócio e controle de acesso.
+
+### Expense Tracker
+
+Aplicação para gerenciamento de despesas, desenvolvida para praticar JavaScript, operações CRUD e persistência de dados no navegador.
+
+## Atualmente estudando
+
+- Engenharia de requisitos e análise de sistemas
+- SQL e modelagem de banco de dados
+- TypeScript e desenvolvimento com React
+- Desenvolvimento de APIs e integração entre aplicações
+- Lógica de programação e fundamentos de engenharia de software
+
+## Objetivo
+
+Busco uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, aprender com outros desenvolvedores e contribuir para projetos reais.
 
 ---
-[![](https://komarev.com/ghpvc/?username=martiniclayton&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[GitHub](https://github.com/martiniclayton)
