@@ -1,4 +1,4 @@
-# Clayton Timóteo
+# Clayton Timoteo
 
 Estudante de Ciência da Computação | Desenvolvedor Full Stack em formação
 
