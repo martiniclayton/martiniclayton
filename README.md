@@ -10,9 +10,9 @@ Tenho interesse em entender como as aplicações funcionam de ponta a ponta, des
 
 **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Bootstrap
 
-**Back-end:** Node.js, Express, TypeORM, JWT, TypeScript
+**Back-end:** Node.js, Express, TypeORM, JWT, TypeScript, API Rest
 
-**Banco de dados:** MySQL, PostgreSQL
+**Banco de dados:** Estudo em andamento(PostgreSQL)
 
 **Ferramentas:** Git, GitHub, VS Code, Postman
 
@@ -22,7 +22,9 @@ Tenho interesse em entender como as aplicações funcionam de ponta a ponta, des
 
 Aplicação web para gerenciamento de orçamentos e ordens de serviço, com integração entre front-end e back-end.
 
-Tecnologias: React, TypeScript, Node.js, Express e banco de dados SQL.
+Tecnologias: React, TypeScript, Node.js, Express, API Rest, JWT e PostgreSQL.
+
+* https://orcamais-zeta.vercel.app/
 
 ### Sistema de estoque de veículos
 
@@ -42,7 +44,7 @@ Aplicação para gerenciamento de despesas, desenvolvida para praticar JavaScrip
 
 ## Cursos finalizados
 
-- Formação FullStack TypeScript (React + Node.js + Viteste + API Rest) - DIO
+- Formação FullStack TypeScript (React + Node.js + Viteste + API Rest + JWT + Express + TypeORM) - DIO
 
 ## Objetivo
 
