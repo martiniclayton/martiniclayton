@@ -8,9 +8,18 @@ Tenho interesse em entender como as aplicações funcionam de ponta a ponta, des
 
 ## Tecnologias
 
-**Front-end:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Bootstrap
+**Front-end:** 
 
-**Back-end:** Node.js, Express, TypeORM, JWT, TypeScript, API Rest
+- **Base:** HTML, CSS, JavaScript.
+- **Frameworks**: React.
+- **Estilos**: Bootstrap, Tailwind CSS. 
+
+**Back-end:** 
+- **Tecnologias**: Node.js.
+- **Linguagens**: TypeScript.
+- **APIs**: API Rest.
+- **Frameworks**: Express.js, TypeORM.
+- **Segurança**: JWT
 
 **Banco de dados:** Estudo em andamento(PostgreSQL)
 
