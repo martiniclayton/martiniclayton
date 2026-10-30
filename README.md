@@ -7,6 +7,9 @@ Estudo e desenvolvo aplicações web com foco em JavaScript, TypeScript e React.
 Tenho interesse em entender como as aplicações funcionam de ponta a ponta, desde a interface até a persistência dos dados.
 
 ## Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" />
 
 **Front-end:** 
 
