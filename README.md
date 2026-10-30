@@ -42,7 +42,7 @@ Aplicação para gerenciamento de despesas, desenvolvida para praticar JavaScrip
 
 ## Cursos finalizados
 
-- Formação FullStack TypeScript - DIO
+- Formação FullStack TypeScript (React + Node.js + Viteste + API Rest) - DIO
 
 ## Objetivo
 
