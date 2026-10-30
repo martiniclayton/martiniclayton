@@ -40,6 +40,10 @@ Aplicação para gerenciamento de despesas, desenvolvida para praticar JavaScrip
 - Desenvolvimento de APIs e integração entre aplicações
 - Lógica de programação e fundamentos de engenharia de software
 
+## Cursos finalizados
+
+- Formação FullStack TypeScript - DIO
+
 ## Objetivo
 
 Busco uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, aprender com outros desenvolvedores e contribuir para projetos reais.
