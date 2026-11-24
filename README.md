@@ -37,7 +37,7 @@ Tenho interesse em entender como as aplicações funcionam de ponta a ponta, des
 
 Aplicação web para gerenciamento de orçamentos e ordens de serviço, com integração entre front-end e back-end.
 
-Tecnologias: React, TypeScript, Node.js, Express, API Rest, JWT e PostgreSQL.
+Tecnologias: React, TypeScript, Node.js, Express, API Rest, JWT, TypeORM e PostgreSQL.
 
 * https://orcamais-zeta.vercel.app/
 
